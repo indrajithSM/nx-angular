@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+.chart-card-element {
+    background-color: #cdcdcd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
